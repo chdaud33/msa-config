@@ -1,1 +1,9 @@
-test
+spring:
+  datasource:
+    driver: com.mysql.jdbc.Driver
+    url: dbUrl
+    username: test
+    password: test
+
+default:
+  message: limit-service 에서 사용할 설정 정보들
