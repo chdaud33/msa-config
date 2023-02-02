@@ -9,4 +9,4 @@ token:
   key: my_token_secret_key
 
 default:
-  message: user-service 에서 global profiles 에서 사용할 설정
+  message: user-service 에서 global profiles 에서 사용할 설정 acuator
